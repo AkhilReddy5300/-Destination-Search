@@ -1,0 +1,15 @@
+.image {
+  height: 350px;
+  width: 350px;
+}
+.image-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+}
+.list {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}

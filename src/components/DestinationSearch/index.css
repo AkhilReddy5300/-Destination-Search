@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 700;
+  color: #000000;
+}
+.bg-cont2 {
+  background-color: #f1f5f9;
+  padding: 8px;
+  font-family: 'Roboto';
+  font-size: 13px;
+  border-radius: 10px;
+  border: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.search {
+  outline: none;
+  border: 0px;
+  background-color: #f1f5f9;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+.countries {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
